@@ -1,6 +1,7 @@
 # utc-test
 
-## Project setup
+## Project setup Frontend
+##
 ```
 npm install
 ```
@@ -19,6 +20,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
